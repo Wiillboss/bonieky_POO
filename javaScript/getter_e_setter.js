@@ -1,7 +1,6 @@
 
 class Pessoa{
 
-
     _idade = 10;
     passos = 0;
 
