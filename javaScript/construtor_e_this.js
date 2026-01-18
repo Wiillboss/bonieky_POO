@@ -27,7 +27,7 @@ console.log(p3.age);
 console.log(`O nome da primeira pessoa é: ${p1.name}, e ele(a) tem ${p1.age} anos.`); //Usando template.
 
 
-//Caso queria que o construtor tenha apenas o nome e a idade de cada objeto comece com zero(0)
+//Caso queria que o construtor tenha apenas o nome, mas TODAS idade de cada objeto comece com zero(0)
 //No caso abaixo, a propriedade idade existe, somente não foi preenchida no construtor
 class Person_idade_zero{
 
